@@ -1,0 +1,22 @@
+cd backend
+uv inplace of pip
+uv add fastapi uvicorn sql sqlalchemy python-dotenv clerk
+-sdk-python openai
+
+change local interpreter from command pallete
+
+mkdir src
+cd src
+mkdir routes
+mkdir database
+
+
+cd ..
+
+npm create vite@latest frontend -- --template react
+
+cd frontend
+
+npm install react-router-dom@6 @clerk/clerk-react
+
+
