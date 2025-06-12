@@ -19,4 +19,12 @@ cd frontend
 
 npm install react-router-dom@6 @clerk/clerk-react
 
+setup clerk on their website
+
+make auth folder
+and then clerkProviderwithRoutes file
+
+import it in app.jsx
+
+
 
