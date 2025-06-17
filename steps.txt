@@ -26,5 +26,9 @@ and then clerkProviderwithRoutes file
 
 import it in app.jsx
 
+import differnet components in app.jsx and also set up routes
+
+
+
 
 
