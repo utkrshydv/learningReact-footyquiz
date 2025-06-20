@@ -1,0 +1,28 @@
+├── .env
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── node_modules
+├── package-lock.json
+├── package.json
+├── public
+│   └── vite.svg
+├── README.md
+├── src
+│   ├── App.css
+│   ├── App.jsx
+│   ├── auth
+│   │   ├── AuthenticationPage.jsx
+│   │   └──ClerkProviderWithRoutes.jsx
+│   ├── challenge
+│   │   ├── ChallengeGenerator.jsx
+│   │   └── MCQChallenge.jsx
+│   ├── history
+│   │   └── HistoryPanel.jsx
+│   ├── index.css
+│   ├── layout
+│   │   └── Layout.jsx
+│   ├── main.jsx
+│   └── utils
+│       └── api.js
+└── vite.config.js
