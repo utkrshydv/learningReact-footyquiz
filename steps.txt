@@ -32,3 +32,20 @@ import differnet components in app.jsx and also set up routes
 
 
 
+FRONT END
+ CLERK AUTHENTICATE -> ISSUE JWT TOKEN -> SENT TO backend
+
+
+BACKEND -> CONNECT TO CLERK -> ASK CLERK IF THE TOKEN IS VALID
+
+
+2. What is an ORM?
+ORM stands for "Object-Relational Mapper" (or Mapping).
+
+An ORM is a programming technique that acts as a bridge between your object-oriented programming language (like Python) and a relational database.
+
+Its main goal is to allow you to interact with your database using objects and methods from your programming language, instead of writing raw SQL queries.
+
+
+features it can have :
+   quiz on a specific club/country
